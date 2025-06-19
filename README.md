@@ -2,27 +2,30 @@ powerful recon tool I made over a bit of time, it was originally used to scan ne
 
 ## X-Scan
 
-Recon tool for basic and vulnerability check and fingerprinting
+-Recon tool for basic and vulnerability check and fingerprinting
 
-checks for zone transfer risk
+-checks for zone transfer risk
 
-takeover risk
+-takeover risk
 
-http smuggling
+-http smuggling
 
-xss
+-open redirects
 
-extracts secrets
+-auth leakage
 
-checks CSP headers
+-xss
 
-favicon hash
+-extracts secrets
 
-Tech fingerprint
+-checks CSP headers
 
-exposed files
+-favicon hash
 
-and much more.............
+-Tech fingerprint
+
+-exposed files
+
 
 
 
