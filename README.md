@@ -18,6 +18,9 @@ checks CSP headers
 
 favicon hash
 
+Tech fingerprint
+
+exposed files
 
 and much more.............
 
