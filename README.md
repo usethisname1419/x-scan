@@ -27,4 +27,4 @@ and much more.............
 
 run with python
 
-``python3 xscan.py --src website1.com,website2.com,subdomain.website2.com --out someoutput.txt/json``
+``python3 xscan.py --src website1.com,website2.com,subdomain.website2.com --out someoutput``
